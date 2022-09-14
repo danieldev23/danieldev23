@@ -85,7 +85,7 @@
   </a>
 </div>
 
-<br>
+<!-- <br>
 <h2 align="center">📖 Software Engineer & UI/UX Designner 📖</h2>
 <br>
 <p>
@@ -95,7 +95,7 @@
 </p>
 <a href="https://youtu.be/63opfUkPq6k" target="_blank">
   <img src="https://i.ibb.co/YtF5BWk/NG-QU-C-HUY-1.jpg" width="1200" alt="huydev2k-official" />
-</a>
+</a> -->
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
