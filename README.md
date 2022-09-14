@@ -86,7 +86,17 @@
 </div>
 
 <br>
-
+<h2 align="center">📖 Software Engineer & UI/UX Designner 📖</h2>
+<br>
+<p>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/huycoder2k5" target="_blank">https://www.facebook.com/huycoder2k5</a></strong>
+  <br>
+  <strong>📧 Hoặc Email: <a href="mailto:huydev2k.official@gmail.com" target="_top">huydev2k.official@gmail.com</a></strong>
+</p>
+<a href="https://youtu.be/63opfUkPq6k" target="_blank">
+  <img src="https://i.ibb.co/YtF5BWk/NG-QU-C-HUY-1.jpg" width="1200" alt="huydev2k-official" />
+</a>
+<br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
