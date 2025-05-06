@@ -16,7 +16,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
+<span><img src="https://static-00.iconduck.com/assets.00/nuxtjs-icon-2048x1372-xn6c49j2.png" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
