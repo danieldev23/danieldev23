@@ -16,8 +16,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
-<span><img src="https://static-00.iconduck.com/assets.00/nuxtjs-icon-2048x1372-xn6c49j2.png" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
@@ -43,59 +41,38 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+
 &nbsp;
 
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
+<div align="center" >
+<a  href="https://github.com/danieldev23">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+  
+<hr></hr>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
-  <a href="#" title="QuocHuydev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldev23&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="quochuydev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=danieldev23&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
 
 <br>
-
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-
-  <a href="https://facebook.com/huycoder2k5" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="quochuydev-facebook" />
-  </a>
-  <a href="https://www.youtube.com/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/dangquochuy" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="quochuydev-linkedin" />
-  </a>
-  <a href="https://instagram.com/danieldev_.205" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="quochuydevdev-instagram" />
-  </a>
-  <a href="mailto:huypc929@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="quochuydev-email" />
-  </a>
-</div>
-
-<!-- <br>
-<h2 align="center">📖 Software Engineer & UI/UX Designner 📖</h2>
-<br>
-<p>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/huycoder2k5" target="_blank">https://www.facebook.com/huycoder2k5</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:huydev2k.official@gmail.com" target="_top">huydev2k.official@gmail.com</a></strong>
-</p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="https://i.ibb.co/YtF5BWk/NG-QU-C-HUY-1.jpg" width="1200" alt="huydev2k-official" />
-</a> -->
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working with **Nodejs & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Daniel](https://t.me/danieldev99)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
