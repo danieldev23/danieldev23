@@ -9,7 +9,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cong85010&theme=algolia" alt="cong85010"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danieldev23&theme=algolia" alt="danieldev23"  /></p>
 
 ## 🛠️ My Skills
 
